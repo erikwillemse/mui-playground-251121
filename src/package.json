@@ -1,0 +1,15 @@
+{
+  "title": "BasicGrid Material Demo",
+  "name": "BasicGrid Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.0/docs/src/pages/components/grid/BasicGrid.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@mui/material": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  }
+}
